@@ -3,12 +3,12 @@
 <metadata modelVersion="1.1.0">
   <groupId>net.leathermc</groupId>
   <artifactId>leather</artifactId>
-  <version>0.0.1-alpha.0</version>
+  <version>0.1.0-alpha</version>
   <versioning>
-    <latest>0.0.1-alpha.0</latest>
-    <release>0.0.1-alpha.0</release>
+    <latest>0.1.0-alpha</latest>
+    <release>0.1.0-alpha</release>
     <versions>
-      <version>0.0.1-alpha.0</version>
+      <version>0.1.0-alpha</version>
     </versions>
   </versioning>
 </metadata>
